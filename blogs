@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,700|Martel:400,700" rel="stylesheet">
+
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navigation container">
+        <div class="nav-brand">Subham Poddar</div>
+        <ul class="list-non-bullet nav-pills">
+            <li class="list-item-inline">
+                <a class="link " href="/">Home</a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link" href="/projects.html">Projects</a>
+            </li>
+            <li class="list-item-inline">
+                <a class="link link-active" href="/blogs.html">Blogs</a>
+            </li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+
+        <h1 class="hero-heading">See My <span class="heading-inverted">Blogs</span></h1>
+    </header>
+    <ul class="list-non-bullet">
+
+
+        <li>
+            <div class="container-center margin-md">
+                <h2>Story of a Website</h2>
+                <p>This article helps beginners the flow of building a web app and roles played by HTML, CSS and Javascript.</p>
+                <br>
+                <a class="link primary-link" href="https://medium.com/@engineersubham365/story-of-a-website-introducing-html-css-javasscript-for-beginners-1b32d39f87b0" target="_blank">Read</a>
+
+
+            </div>
+        </li>
+        <hr>
+
+
+
+
+        <li>
+            <div class=" container-center margin-md ">
+                <h2>Moving Goalposts </h2>
+                <p>We aim to achieve something. We achieve it but it is not enough as we continue to keep expecting something better. An article that talks about the need to have definite goals and to celebrate them when reached.</p>
+                <br>
+                <a class="link primary-link " href="https://medium.com/@engineersubham365/moving-goalposts-889a5c70e9a7" target="_blank ">Read</a>
+
+            </div>
+        </li>
+
+        <hr>
+
+
+
+        <li>
+            <div class="container-center margin-md ">
+                <h2>5 facts about Searching Algorithms</h2>
+                <p>A lot of things in a coding problem boils down to searching for answer. This article discusses two major Searching Algorithms : Linear and Binary Search</p>
+                <br>
+                <a class="link primary-link " href="https://medium.com/@engineersubham365/5-facts-about-searching-algorithms-51785cd1f280" target="_blank ">Read</a>
+
+            </div>
+        </li>
+        <hr>
+
+        <li>
+            <div class="container-center margin-md ">
+                <h2>Subarrays vs Subsequences vs Subset</h2>
+                <p>This article aims to clearly help the reader understand three often confusing terms in problem-solving. Examples have been added to understand the concepts in depth. </p>
+                <br>
+
+                <a class="link primary-link " href="https://medium.com/@engineersubham365/subarrays-vs-subsequence-vs-subsets-2d4f677503eb" target="_blank ">Read</a>
+            </div>
+        </li>
+
+        <hr>
+
+
+        <li>
+            <div class="container-center margin-md ">
+                <h2>Python's In-Built Data Structures</h2>
+
+                <p> Python provides useful data structures which helps us to store data in an efficient manner, depending upon the use. Learn about them and their basic properties through this article.</p>
+                <br>
+
+                <a class="link primary-link " href="https://medium.com/@engineersubham365/pythons-in-built-data-structures-c605a8e1a9fc" target="_blank ">Read</a>
+
+
+            </div>
+        </li>
+    </ul>
+    <br>
+
+    <footer class="footer ">
+        <div class="footer-header ">Connect With Me</div>
+
+        <ul class="social-links list-non-bullet ">
+            <li class="list-item-inline ">
+                <a class="link " href="https://github.com/codewithSubhm" target="_blank "> <i class="fa-brands fa-github "></i></a>
+            </li>
+            <li class="list-item-inline ">
+                <a class="link " href="https://www.linkedin.com/in/codersubham2022/" target="_blank "> <i class="fa-brands fa-linkedin "></i></a>
+            </li>
+            <li class="list-item-inline ">
+                <a class="link " href="https://twitter.com/subhampoddar97" target="_blank "> <i class="fa-brands fa-twitter "></i></a>
+            </li>
+        </ul>
+
+
+
+</body>
+
+</html>
